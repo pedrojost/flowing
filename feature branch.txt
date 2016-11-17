@@ -18,4 +18,7 @@ Situational:
 For developing in collaboration, first publish the feature to the remote server so it can be used by other users by typing (do this before finishing the feature):
 git flow feature  new-shared—feature-name
 
+Then, you can track a feature on a origin by using:
+git flow feature track new-shared—feature-name
+
 
