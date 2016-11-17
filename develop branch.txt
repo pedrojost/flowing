@@ -1,0 +1,5 @@
+Develop branch: Preparatory level code for future deployments, it is where new features get merged for testing and production release
+
+This branch gets created with the git flow initialization in the project.
+
+
