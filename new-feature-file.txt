@@ -1,0 +1,8 @@
+Follow these steps for starting, finishing and publishing a new feature for the project:
+
+Type in terminal:
+git flow feature start new-feature-name  //This action creates a new feature branch based on 'develop' and switches to it
+
+Develop the feature then finish it`s branch by merging the new feature files  to the develop branch with the following terminal command:
+git flow feature finnish new-feature-name
+
